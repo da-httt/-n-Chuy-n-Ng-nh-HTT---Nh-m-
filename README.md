@@ -3,6 +3,11 @@ Tên đề tài: Hệ thống thuê chuyên gia chấm bài Tiếng Anh - ScoreM
 
 Công nghệ: FastApi(Python), React.js, Android(Kotlin)
 
+Thuộc môn học: 
+
+1. Đồ án Cơ sở ngành HTTT
+
+2. Quản lý dự án CNTT
 
 # Repository 
 [FastAPI API server](https://github.com/da-httt/scoremyessay-api-server)
