@@ -5,9 +5,9 @@ Công nghệ: FastApi(Python), React.js, Android(Kotlin)
 
 Thuộc môn học: 
 
-1. Đồ án Cơ sở ngành HTTT
+1. Đồ án Cơ sở ngành HTTT - 17N10
 
-2. Quản lý dự án CNTT
+2. Quản lý dự án CNTT -  17N10
 
 # Repository 
 [FastAPI API server](https://github.com/da-httt/scoremyessay-api-server)
