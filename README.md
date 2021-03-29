@@ -5,6 +5,10 @@ Công nghệ: FastApi(Python), React.js, Android(Kotlin)
 
 
 # Thông tin nhóm
-Phạm Mạnh Dũng - 17T3 - 102170149
-Ngô Thị Cảnh - 17T1 - 
-Trần Đình Nam
+Phạm Mạnh Dũng (nhóm trưởng) - 17T3 - 102170149 - phammanhdung2711@gmail.com
+
+Ngô Thị Cảnh - 17T1 - 102170172 - canhngo225@gmail.com
+
+Trần Đình Nam - 17T3 - 10    - trandinhnam1199@gmail.com
+
+Số điện thoại nhóm trưởng: 0915469728
