@@ -14,11 +14,11 @@ Thuộc môn học:
 
 [Product Backlog](https://docs.google.com/spreadsheets/d/1ysZ3BYZoSn0WuSTYX-x-c2FwYnMKyCevbk3jeUZjEKE/edit?usp=sharing)
 
-[FastAPI API server](https://github.com/da-httt/scoremyessay-api-server)
+[FastAPI API server repo](https://github.com/da-httt/scoremyessay-api-server)
 
-[Android Kotlin](https://github.com/da-httt/scoremyessay-android-app)
+[Android Kotlin app Repo](https://github.com/da-httt/scoremyessay-android-app)
 
-[Website Frontend app](https://github.com/da-httt/scoremyessay-react-app)
+[Website Frontend app repo](https://github.com/da-httt/scoremyessay-react-app)
 
 
 # Thông tin nhóm
