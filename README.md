@@ -1,5 +1,6 @@
 # Thông tin đề tài 
 Tên đề tài: Hệ thống thuê chuyên gia chấm bài Tiếng Anh - ScoreMyEssay
+
 Công nghệ: FastApi(Python), React.js, Android(Kotlin)
 
 
