@@ -4,6 +4,13 @@ Tên đề tài: Hệ thống thuê chuyên gia chấm bài Tiếng Anh - ScoreM
 Công nghệ: FastApi(Python), React.js, Android(Kotlin)
 
 
+# Repository 
+[FastAPI API server](https://github.com/da-httt/scoremyessay-api-server)
+
+[Android Kotlin](https://github.com/da-httt/scoremyessay-android-app)
+
+[Website Frontend app](https://github.com/da-httt/scoremyessay-react-app)
+
 # Thông tin nhóm
 Phạm Mạnh Dũng (nhóm trưởng) - 17T3 - 102170149 - phammanhdung2711@gmail.com
 
