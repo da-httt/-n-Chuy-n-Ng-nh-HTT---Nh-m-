@@ -26,8 +26,8 @@ Thuộc môn học:
 # Thông tin nhóm
 Phạm Mạnh Dũng (nhóm trưởng) - 17T3 - 102170149 - phammanhdung2711@gmail.com
 
-Ngô Thị Cảnh - 17T1 - 102170172 - canhngo225@gmail.com
+Ngô Thị Cảnh - 17T1 - 102170006 - canhngo225@gmail.com
 
-Trần Đình Nam - 17T3 - 102170006 - trandinhnam1199@gmail.com
+Trần Đình Nam - 17T3 - 102170172  - trandinhnam1199@gmail.com
 
 Số điện thoại nhóm trưởng: 0915469728
